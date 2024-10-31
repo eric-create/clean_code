@@ -1,0 +1,14 @@
+https://www.reddit.com/r/learnprogramming/comments/139stu1/why_the_hate_towards_clean_code/
+https://www.goodreads.com/work/quotes/3779106-clean-code-a-handbook-of-agile-software-craftsmanship-robert-c-martin
+https://overreacted.io/goodbye-clean-code/
+https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+
+
+
+https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
+https://www.cs.utexas.edu/~EWD/ewd04xx/EWD447.PDF
+
+https://www.techtarget.com/searchnetworking/definition/loose-coupling
+
+https://www1.racgp.org.au/newsgp/clinical/what-does-clutter-do-to-your-brain-and-body#:~:text=Clutter%20can%20affect%20our%20anxiety,other%20people%20decluttering%20their%20lives
